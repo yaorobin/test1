@@ -1,6 +1,6 @@
 public class HelloWorld {
     /**
-    * Êä³öÒ»ĞĞ×Ö·û´®¡°Hello World!¡±
+    * ç¬¬ä¸€ä¸ªHelloworkç¨‹åº
     * @param args
     */
     public static void main(String[] args) {
