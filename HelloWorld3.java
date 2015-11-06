@@ -1,6 +1,6 @@
-锘縫ublic class HelloWorld2 {
+public class HelloWorld3 {
     /**
-    * 绗竴涓狧elloworld绋嬪簭,haha
+    * 第一个Helloworld程序,haha
     * @param args
     */
     public static void main(String[] args) {
