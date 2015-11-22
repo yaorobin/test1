@@ -1,4 +1,4 @@
-public class HelloWorld3 {
+﻿public class HelloWorld3 {
     /**
     * µÚÒ»¸öHelloworld³ÌÐò,haha
     * @param args
@@ -7,6 +7,6 @@ public class HelloWorld3 {
     System.out.println("Hello World!");
     System.out.println("Hello World33333!");
     System.out.println("in new branch haha!");
-    System.out.println("Firstly change!");
+    System.out.println("Firstly!");
     }
 }
