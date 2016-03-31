@@ -7,6 +7,7 @@
     System.out.println("Hello World!");
     System.out.println("Hello World33333!");
     System.out.println("in new branch server branch New add to server!");
+<<<<<<< HEAD
     System.out.println("Hello World33333!");
     System.out.println("Firstly change!");
     }
