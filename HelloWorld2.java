@@ -7,5 +7,6 @@
     System.out.println("Hello World!");
     System.out.println("push to another branch!");
     System.out.println("push to branch!");
+    System.out.println("add one line in client test conflict!");
     }
 }
