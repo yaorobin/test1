@@ -1,6 +1,6 @@
 ﻿public class HelloWorld3 {
     /**
-    * µÚÒ»¸öHelloworld³ÌÐò,haha
+    * 我的第一个Helloworld,haha
     * @param args
     */
     public static void main(String[] args) {
